@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AvIsBeastMC</h1>
 <h3 align="center">A Passionate full stack developer from India 🇮🇳</h3>
-
+<img src="https://discord.c99.nl/widget/theme-2/434968259863904256.png" alt="avisbeastmc" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisbeastmc&label=Profile%20views&color=0e75b6&style=flat" alt="avisbeastmc" /> </p>
 
 - 🔭 I’m currently working on [EmpileDoc](https://empiledoc.in.net)
