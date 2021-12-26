@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.avisbeastdev.ml](https://portfolio.avisbeastdev.ml)
+- 👨‍💻 All of my projects are available at [https://www.avisbeastdev.ml](https://www.avisbeastdev.ml)
 
 - 💬 Ask me about **react, vue, firebase, c#**
 
