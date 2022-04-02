@@ -3,15 +3,11 @@
 <img src="https://discord.c99.nl/widget/theme-2/434968259863904256.png" alt="avisbeastmc" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisbeastmc&label=Profile%20views&color=0e75b6&style=flat" alt="avisbeastmc" /> </p>
 
-- 🔭 I’m currently working on [EmpileDoc](https://empiledoc.in.net)
-
-- 🌱 I’m currently learning **Typescript, MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://www.avisbeastdev.ml](https://www.avisbeastdev.ml)
 
-- 💬 Ask me about **react, vue, firebase, c#**
+- 💬 Ask me about **npm, react, vue, firebase, c#**
 
-- 📫 How to reach me **arunnya.varma.india@gmail.com**
+- 📫 How to reach me **arunnya.varma.india@gmail.com** or **AvIsBeastMC <3#4610**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
