@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.avisbeastdev.ml](https://www.avisbeastdev.ml)
 
-- 💬 Ask me about **npm, react, vue, firebase, c#**
+- 💬 Ask me about **npm, react, vue, firebase, c#, video editing and production and more**
 
 - 📫 How to reach me **arunnya.varma.india@gmail.com** or **arunnya#9580**
 
