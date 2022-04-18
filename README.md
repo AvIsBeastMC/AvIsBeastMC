@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **npm, react, vue, firebase, c#**
 
-- 📫 How to reach me **arunnya.varma.india@gmail.com** or **av#9580**
+- 📫 How to reach me **arunnya.varma.india@gmail.com** or **arunnya#9580**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
