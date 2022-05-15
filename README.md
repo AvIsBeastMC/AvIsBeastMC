@@ -3,7 +3,7 @@
 <img src="https://discord.c99.nl/widget/theme-2/434968259863904256.png" alt="avisbeastmc" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisbeastmc&label=Profile%20views&color=0e75b6&style=flat" alt="avisbeastmc" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.avisbeastdev.ml](https://www.avisbeastdev.ml)
+- 👨‍💻 All of my projects are available at [https://www.avisbeastdev.ml](https://www.avisbeastmc.ml)
 
 - 💬 Ask me about **npm, react, vue, firebase, c#, video editing and production and more**
 
