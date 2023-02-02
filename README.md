@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Prisma, tRPC, Apache Cassandra & GraphQL**
 
-- 🏢 Clients? **50+!**
+- 🏢 Clients I've worked with? **70+!**
 
 - 📒 Currently working on [Soma](https://www.somapedia.in/)
 
