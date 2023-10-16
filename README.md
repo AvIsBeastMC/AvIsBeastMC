@@ -11,7 +11,7 @@
 
 - 🏢 Clients I've worked with? **70+!**
 
-- 📒 Currently working on [VALODEX](https://work.arunnya.com/project/valodex), [ASSETWING](https://work.arunnya.com/project/assetwing)
+- 📒 Currently working on [VALODEX](https://work.arunnya.com/project/valodex)
 
 - 👨‍💻 All of my projects are available at [https://work.arunnya.com/](https://work.arunnya.com/)
 
