@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://work.arunnya.com/](https://work.arunnya.com/)
 
-- 📝 I regularly write articles on [https://www.arunnya.com/blogs](https://www.arunnya.com/blogs)
-
 - 💬 Ask me about **React & NextJS, Vue & NuxtJS, jQuery, React Native, MongoDB, Firebase, Supabase, etc.**
 
 - 📫 How to reach me **me@arunnya.com**
