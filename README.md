@@ -7,7 +7,7 @@
 
 - 🌐 Portfolio and Work [Have a look!](https://www.arunnya.com/)
 
-- 🌱 I’m currently learning **Prisma, tRPC, Apache Cassandra & GraphQL**
+- 🌱 I’m currently learning **DrizzleORM, Apache Cassandra, GraphQL & AWS!**
 
 - 🏢 Clients I've worked with? **70+!**
 
